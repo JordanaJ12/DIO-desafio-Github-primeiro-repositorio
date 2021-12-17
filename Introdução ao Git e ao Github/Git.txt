@@ -1,0 +1,25 @@
+Comandos do Git bash no Windows:
+
+https://msysgit.github.com/   - Site para instalar o Git no Windows
+
+git init - Para inicializar um repositório em um dietório já existente.
+git clone [url] - para clonar um repositório existente.
+git status - verifica o estado que estão os arquivos (modified, staged ou commit).
+git add <arquivo> - para monitorar novos arquivos.
+git commit -m  "Mensagem" - adiciona uma mensagem a um commit para descrever as mudanças.
+git push (nome do repositorio remoro) (nome da branch local) - Para subir as mudanças que foram na máquina local
+ex: git push origin master.
+git pull (nome do repositorio remoto) (nome da branch local) - para incopora as alterações remotas na máquina local.
+
+mkdir <nomefile> - para criar uma pasta.
+mv <arquivo>  /.(nomepasta) - move o arquivo para a pasta desejada.
+
+cd (nomepasta) >echo "Mensagem" - para printar uma mensagem na tela.
+cd (nomepasta) >echo "Mensagem" > hello.txt - para criar um arquivo com uma mensagem dentro.
+cd (nomepasta) - para navegar entre as pastas.
+cd .. - para retroceder uma navegação.
+
+
+
+
+
