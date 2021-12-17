@@ -6,7 +6,8 @@ Desafio da Digital Innovation One, onde o desafio é criar o primeiro repositór
 
 [O que é o Git e o GitHub, suas diferenças e como usar na prática](https://blog.betrybe.com/tecnologia/git-e-github/)
 
-[Portugol Webstudio Online](https://portugol-webstudio.cubos.io/ide)  
+[Portugol Webstudio Online](https://portugol-webstudio.cubos.io/ide) 
+
 [Sintaxe Básica de Markdown](https://www.markdownguide.org/basic-syntax/)  
 
 
